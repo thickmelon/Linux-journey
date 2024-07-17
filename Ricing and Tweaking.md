@@ -1,9 +1,10 @@
 # Historical order
 ---
-이 가이드는 내가 리눅스 조작하면서 배운 것들을 시간적 순서로 정리한 건데, 다른 사람들한테도 쓸모 있었으면 한다.  
-참고로 이 가이드는 글쓴이가 사용한 Linux Mint 21.3 Cinnamon을 기준으로 한다. 
-이 OS는 Ubuntu 22.04 Jammy를 기반으로 한 우분투 클론이며, 이 Linux Mint 자체의 한국 유저용 클론은 HarmoniKR이다. 
-따라서 Mint Cinnamon이나 HarmoniKR이나 이 가이드에 적힌 방법들은 다 쓸 수 있을 것이다.
+이 가이드는 내가 리눅스를 써가며 배운 것들을 시간적 순서로 정리한 건데, 다른 유저들에게도 쓸모 있음을 바라고 작성하는 것이다.
+우선 이 가이드에 대해서 알아야 할 점이 있는데, 
+- 참고로 이 가이드는 글쓴이가 사용한 Linux Mint 21.3 Cinnamon을 기준으로 한다.
+- 이 OS는 Ubuntu 22.04 Jammy를 기반으로 한 우분투 클론이며, 이 Linux Mint 자체의 한국 유저용 클론은 HarmoniKR이다. 
+- 따라서 Mint Cinnamon이나 HarmoniKR에서는 이 가이드에 적힌 방법들은 전부 다 쓸 수 있을 것이다.
 
 
 ## 한글 깔기
