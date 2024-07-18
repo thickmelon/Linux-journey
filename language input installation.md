@@ -68,6 +68,7 @@ sudo apt install fcitx-hangul*
 - 위에서 언급했듯이, 이 메뉴를 통해서 처음부터 Fcitx와 한글 설치를 바로 처리해도 된다. 지금은 그러나, 터미널 사용법을 알아보는 것이 더 위주이므로, 이 방법을 사용한다. 
 
 이후 메뉴에 있는**fcitx 환경설정**에서 한글 입력이 가능하도록 추가해주어야 한다.
+![Pasted image 20240226002441](https://github.com/user-attachments/assets/3cc1be2f-2025-41a3-9152-7696e09525cd)
 
 하단의 **+** 키를 누르면 입력 문자를 추가할 수 있다. hangul을 추가히고
 
